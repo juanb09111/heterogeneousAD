@@ -45,8 +45,7 @@ For more details, the paper will be available after publication. Stay tuned!
 - Ground truth annotations for detailed evaluation and benchmarking.  
 
 ### Dataset Overview
-![alt text](http://url/to/img.png)
-
+![Dataset Overview](Screenshot from 2024-11-30 19-19-34.png)
 ---
 
 ## 📊 Benchmark Results
