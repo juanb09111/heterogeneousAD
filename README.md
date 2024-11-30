@@ -45,7 +45,7 @@ For more details, the paper will be available after publication. Stay tuned!
 - Ground truth annotations for detailed evaluation and benchmarking.  
 
 ### Dataset Overview
-![Dataset Overview](Screenshot from 2024-11-30 19-19-34.png)
+![Dataset Overview](roads.png)
 ---
 
 ## 📊 Benchmark Results
@@ -68,14 +68,3 @@ The datasets are available for download via the following links:
 
 ---
 
-## 🚀 Get Started
-
-### Prerequisites
-- Python 3.x  
-- PyTorch (Recommended for replicating benchmarks)  
-
-### Steps
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/juanb09111/heterogeneousAD.git
-   cd heterogeneousAD
