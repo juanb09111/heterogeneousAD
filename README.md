@@ -68,8 +68,8 @@ Our results demonstrate the need for nuanced and robust AD methods to handle the
 
 The datasets are available for download via the following links:  
 
-- [**CARS-AD** Dataset](https://github.com/juanb09111/heterogeneousAD)  
-- [**ROADS-AD** Dataset](https://github.com/juanb09111/heterogeneousAD)  
+- [**CARS-AD** Dataset]([https://github.com/juanb09111/heterogeneousAD](https://drive.google.com/drive/folders/1a1OgEQtDJHSXHOA6sRlQK5lpu4AFRO_y?usp=drive_link))  
+- [**ROADS-AD** Dataset]([https://github.com/juanb09111/heterogeneousAD](https://drive.google.com/drive/folders/1uny30i7DxLm_CVuR442Dn3PJ1ikrwayS?usp=drive_link))  
 
 ---
 
