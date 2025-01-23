@@ -1,4 +1,4 @@
-# Heterogeneous Datasets for Unsupervised Image Anomaly DetectionWACV 2025)
+# Heterogeneous Datasets for Unsupervised Image Anomaly Detection (WACV 2025)
 
 Welcome to the official repository for **CARS-AD** and **ROADS-AD**, two novel datasets designed to advance research in **unsupervised anomaly detection (AD)**. These datasets were introduced in our work accepted for presentation at **WACV 2025**:
 
